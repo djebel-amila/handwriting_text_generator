@@ -1,32 +1,3 @@
-/////////////////////////////////////////
-// markov_handwriter.pde               //
-// Julien Mercier                      //
-// January 2019                        //
-///////////////////////////////////////////////////////////////////////////
-//  Goldsmiths University/MA Computational Arts                          //
-//  PFAD: Programming for artists and designers, taught by               //
-//  Lior Ben-Gai                                                         //
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//  Acknowledgments:                                                                                            //
-//  https://rosettacode.org/wiki/Execute_a_Markov_algorithm#Java                                                //
-//  Daniel Schiffman tutorials (on P5.js) for a Markov chain text generator:                                    //
-//    https://shiffman.net/a2z/markov/                                                                          //
-//  Daniel Schiffman’s “Thesis generator”                                                                       //
-//    https://github.com/shiffman/A2Z-F16/blob/gh-pages/week7-markov/07_Thesis_Project_Generator/index.html     //
-//  Allison Parish’s “Generative Course Descriptions”                                                           //
-//    http://static.decontextualize.com/toys/next_semester?                                                     //
-//  Chris Harrison’s “Web Trigrams”                                                                             //
-//    http://www.chrisharrison.net/index.php/Visualizations/WebTrigrams                                         //
-//  Every Bart Simpson’s blackboard quote to date:                                                              //
-//    http://simpsons.wikia.com/wiki/List_of_chalkboard_gags                                                    //
-//  King James’ Bible on the Gutenberg project:                                                                 //
-//    http://www.gutenberg.org/files/10/10-h/10-h.htm                                                           //
-//  A little theory on Markov chains                                                                            //
-//    https://www.analyticsvidhya.com/blog/2014/07/markov-chain-simplified/                                     //
-//  More theory on Markov chains                                                                                //
-//    http://www.cs.princeton.edu/courses/archive/spr05/cos126/assignments/markov.html                          //
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
 ///////////////////////////////////////////////
 // LIBRARIES
 ///////////////////////////////////////////////
